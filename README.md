@@ -23,5 +23,4 @@
 		https://cloud.mail.ru/public/5ge7/5AK9h5tyT/1.png
 		https://cloud.mail.ru/public/5ge7/5AK9h5tyT/2.png
 	Видео:
-		https://cloud.mail.ru/public/4KDx/3nus9AbFi/video.mp4
-	
+		https://cloud.mail.ru/public/4KDx/3nus9AbFi
