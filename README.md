@@ -19,5 +19,5 @@
 	5) Запустить приложение с помощью кнопки: "Run app" - зеленая.
 	
 ## 5. Скриншоты работы
-	![Image of Yaktocat](https://cloud.mail.ru/public/5ge7/5AK9h5tyT/1.png)
+	![Screen1](https://cloud.mail.ru/public/5ge7/5AK9h5tyT/1.png)
 	
