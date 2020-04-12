@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="country">Страна:&#160;</string>
+    <string name="city">Город:&#160;</string>
+    <string name="temp">Температура:&#160;</string>
+    <string name="tempC">&#160;C</string>
+</resources>
