@@ -18,6 +18,10 @@
 	4) Установить эмулятор, либо подключить реальное устройство под управлением ОС Андроид не ниже 5.0
 	5) Запустить приложение с помощью кнопки: "Run app" - зеленая.
 	
-## 5. Скриншоты работы
-	![Screen1](https://cloud.mail.ru/public/5ge7/5AK9h5tyT/1.png)
+## 5. Демонстрация работы
+	Скриншоты:
+		https://cloud.mail.ru/public/5ge7/5AK9h5tyT/1.png
+		https://cloud.mail.ru/public/5ge7/5AK9h5tyT/2.png
+	Видео:
+		https://cloud.mail.ru/public/4KDx/3nus9AbFi/video.mp4
 	
